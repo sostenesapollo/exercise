@@ -29,10 +29,11 @@ yarn test
 ├──── repositories
 ├──── services
 ├──── util
-└──── country
-        └───── logging
-        └───── numbers-exercise
-        └───── numbers-validation
+└──── services
+│       └───── country
+│       └───── logging
+│       └───── numbers-exercise
+│       └───── numbers-validation
 └──── test
         └───── results
         └───── unit
