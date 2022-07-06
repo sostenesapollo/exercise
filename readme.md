@@ -1,5 +1,12 @@
 ## 📝 Exercises
 
+### ▶️ How to run locally
+
+```bash
+yarn
+yarn dev
+```
+
 #### 🛠️ Tools used on this project 
 - NodeJS (v.16.14.2)
 
