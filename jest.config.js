@@ -8,6 +8,6 @@ module.exports = {
     '^@constants/(.*)$': '<rootDir>/src/constants/$1',
     '^@entities/(.*)$': '<rootDir>/src/entities/$1',
     '^@repositories/(.*)$': '<rootDir>/src/repositories/$1',
-    '^@util/(.*)$': '<rootDir>/src/util/$1',
+    '^@utils/(.*)$': '<rootDir>/src/utils/$1',
   },
 };

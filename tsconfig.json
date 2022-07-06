@@ -29,8 +29,8 @@
       "@entities/*": [
         "./src/entities/*"
       ],
-      "@util/*": [
-        "./src/util/*"
+      "@utils/*": [
+        "src/utils/*"
       ],
       "@constants/*": [
         "./src/constants/*"

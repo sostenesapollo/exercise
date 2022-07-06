@@ -28,7 +28,7 @@ yarn test
 ├──── entities
 ├──── repositories
 ├──── services
-├──── util
+├──── utils
 └──── services
 │       └───── country
 │       └───── logging
