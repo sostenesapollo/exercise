@@ -1,4 +1,3 @@
-import { countries } from "../../../src/constants/countries";
 import { CountryRepository } from "../../../src/repositories/CountryRepository";
 import CountryLanguagesService from "../../../src/services/country/Country.service";
 
