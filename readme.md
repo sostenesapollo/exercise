@@ -1,6 +1,6 @@
 ## 📝 Exercises
 
-### ▶️ How to run locally
+#### ▶️ How to run locally
 
 ```bash
 yarn
