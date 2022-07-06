@@ -30,9 +30,9 @@ yarn test
 ├──── services
 ├──── util
 └──── country
-│        └───── logging
-│        └───── numbers-exercise
-│        └───── numbers-validation
+        └───── logging
+        └───── numbers-exercise
+        └───── numbers-validation
 ```
 
 ### ✨ Future improvements
