@@ -24,7 +24,7 @@ describe('CountryLanguages', () => {
     });
 
     test('Should find the most common official language(s), of all countries', async () => {
-        const mostCommonLangs = await countryLanguages.mostCommonLanguage()
+        const mostCommonLangs = await countryLanguages.mostCommonOfficialLanguage()
         expect(mostCommonLangs.sort()).toEqual(["de", "nl"].sort())
     });
 
