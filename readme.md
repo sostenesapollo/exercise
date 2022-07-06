@@ -21,17 +21,19 @@ yarn test
 - Mocking database locally in repository
 
 ### 🏗️ Projetct Structure (src)
-
-├── constants<br />
-├── entities<br />
-├── repositories<br />
-├── services<br />
-|   ├── country<br />
-|   ├── logging<br />
-|   ├── numbers-exercise<br />
-|   ├── numbers-validation<br />
-├── util<br />
-|  app.ts<br />
+```
+│ app.ts
+│ readme.md
+├──── constants
+├──── entities
+├──── repositories
+├──── services
+├──── util
+└──── country
+│        └───── logging
+│        └───── numbers-exercise
+│        └───── numbers-validation
+```
 
 ### ✨ Future improvements
 - [ ] Implement interfaces to be implemented by the classes
