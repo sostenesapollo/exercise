@@ -19,7 +19,7 @@ export default class CountryService {
     }
 
     mostCommonLanguage(): Promise<string[]> {
-        return this.countryRepository.mostCommonLanguage()
+        return this.countryRepository.mostCommonOfficialLanguage()
     }
 
 }

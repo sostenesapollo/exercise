@@ -24,7 +24,7 @@ export class CountryRepository {
         return countriesLanguages[index]
     }
 
-    async mostCommonLanguage(): Promise<string[]> {
+    async mostCommonOfficialLanguage(): Promise<string[]> {
 
         const countriesOfficialLanguages = await this.getAll()
         const allLanguages = Array.prototype.concat.apply([],
