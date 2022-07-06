@@ -1,6 +1,6 @@
 import { CountryLanguages } from '@entities/CountryLanguages'
 import { CountryRepository } from '@repositories/CountryRepository'
-import { indexOfMaxValue } from 'src/utils/math'
+import { indexOfMaxValue } from '@utils/math'
 
 export default class CountryService {
 
