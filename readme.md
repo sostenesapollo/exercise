@@ -1,4 +1,4 @@
-## Exercises Visual Nuts
+## Exercises
 
 #### First Execise
 Write or describe an algorithm that prints the whole integer numbers to the console, start
