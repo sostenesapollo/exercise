@@ -1,0 +1,1 @@
+export const indexOfMaxValue = (a: any[]) => a.reduce((iMax: number, x: number, i: number, arr: any) => x > arr[iMax] ? i : iMax, 0)
