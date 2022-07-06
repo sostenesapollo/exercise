@@ -1,17 +1,37 @@
-## Exercises
-
+## 📝 Exercises
 
 #### 🛠️ Tools used on this project 
 - NodeJS (v.16.14.2)
 
-#### 🛠️ Applied concepts 
+#### 💡 Applied concepts
 - SOLID
 - Clean Architectue
 - TDD
 - Testing Using Jest
 - Conventional Commits
-- Typescript path mapping
+- Typescript Path Mapping
+- Typescript Jest Mapping
+- Mocking database locally in repository
 
+### 🏗️ Projetct Structure (src)
+
+├── constants
+├── entities
+├── repositories
+├── services
+|   ├── country
+|   ├── logging
+|   ├── numbers-exercise
+|   ├── numbers-validation
+├── util
+|  app.ts
+
+### ✨ Future improvements
+- [ ] Implement interfaces to be implemented by the classes
+- [ ] Improve the tests coverage to ensure code quality
+
+
+# Exercises
 #### First Execise
 Write or describe an algorithm that prints the whole integer numbers to the console, start
 from the number 1, and print all numbers going up to the number 100.
@@ -30,20 +50,3 @@ Write a function in javascript that:
 - [x] to find the country with the highest number of official languages.
 - [x] to find the most common official language(s), of all countries.
 
-
-### Projetct Structure (src)
-
-├── constants
-├── entities
-├── repositories
-├── services
-|   ├── country
-|   ├── logging
-|   ├── numbers-exercise
-|   ├── numbers-validation
-├── util
-|  app.ts
-
-### General tools and overview 
-- [ ] Use tsconfig path aliases
-- [ ] Implement types
