@@ -16,7 +16,7 @@ Write a function in javascript that:
 - [x] finds the country with the most official languages, where they officially speak German
 (de). - that counts all the official languages spoken in the listed countries.
 - [x] to find the country with the highest number of official languages.
-- [ ] to find the most common official language(s), of all countries.
+- [x] to find the most common official language(s), of all countries.
 
 @path
 types do repository, entities
