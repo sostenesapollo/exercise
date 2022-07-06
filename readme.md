@@ -22,16 +22,16 @@ yarn test
 
 ### 🏗️ Projetct Structure (src)
 
-├── constants
-├── entities
-├── repositories
-├── services
-|   ├── country
-|   ├── logging
-|   ├── numbers-exercise
-|   ├── numbers-validation
-├── util
-|  app.ts
+├── constants<br />
+├── entities<br />
+├── repositories<br />
+├── services<br />
+|   ├── country<br />
+|   ├── logging<br />
+|   ├── numbers-exercise<br />
+|   ├── numbers-validation<br />
+├── util<br />
+|  app.ts<br />
 
 ### ✨ Future improvements
 - [ ] Implement interfaces to be implemented by the classes
