@@ -1,6 +1,6 @@
-import { CountryLanguages } from '../entities/CountryLanguages'
-import { countries } from '../constants/countries'
-import { indexOfMaxValue } from '../util/math'
+import { CountryLanguages } from '@entities/CountryLanguages'
+import { countries } from '@constants/countries'
+import { indexOfMaxValue } from '@util/math'
 
 export class CountryRepository {
 

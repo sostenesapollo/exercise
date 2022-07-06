@@ -1,4 +1,4 @@
-import NumbersValidation from "../../../src/services/numbers-validation/NumbersValidation.service";
+import NumbersValidation from "@services/numbers-validation/NumbersValidation.service";
 
 describe('ValidateNumbers', () => {
 

@@ -1,5 +1,5 @@
-import NumbersValidation from "../../../src/services/numbers-validation/NumbersValidation.service";
-import NumbersExercise from "../../../src/services/numbers-exercise/NumbersExercise.service";
+import NumbersValidation from "@services/numbers-validation/NumbersValidation.service";
+import NumbersExercise from "@services/numbers-exercise/NumbersExercise.service";
 import { testsAndResults } from "../../results/ValidateNumbers.results";
 
 describe('NumbersExercise', () => {

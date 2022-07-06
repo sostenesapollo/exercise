@@ -1,4 +1,5 @@
-import ValidateNumbersService from '../numbers-validation/NumbersValidation.service'
+import ValidateNumbersService from '@services/numbers-validation/NumbersValidation.service'
+
 
 export default class NumbersExercise {
 

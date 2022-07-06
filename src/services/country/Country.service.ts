@@ -1,4 +1,4 @@
-import { CountryRepository } from '../../repositories/CountryRepository'
+import { CountryRepository } from '@repositories/CountryRepository'
 
 export default class CountryService {
 

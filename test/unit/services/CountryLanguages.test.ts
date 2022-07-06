@@ -1,5 +1,5 @@
-import { CountryRepository } from "../../../src/repositories/CountryRepository";
-import CountryLanguagesService from "../../../src/services/country/Country.service";
+import { CountryRepository } from "@repositories/CountryRepository";
+import CountryLanguagesService from "@services/country/Country.service";
 
 describe('CountryLanguages', () => {
 
